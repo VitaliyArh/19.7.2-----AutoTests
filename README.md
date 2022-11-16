@@ -16,6 +16,8 @@ Testing_REST_api_PetFriends
 
 В работе использовались:
 
+Библиотека --- Pytest, Reqursts, Requests-toolbelt
+
 https://min-api.cryptocompare.com/
 
 https://petfriends.skillfactory.ru/all_pets
